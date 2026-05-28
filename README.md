@@ -35,11 +35,6 @@ Our mission is to preserve the ancient Orthodox faith, support the community, an
 - React Router DOM
 
 
-## 🌍 Mission
-
-Our mission is to preserve and share the faith, worship, tradition, and teachings of the Ethiopian Orthodox Tewahedo Church while serving the spiritual needs of the community.
-
----
 
 ## 🙏 Acknowledgment
 
