@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-churchGold: #d4af37;
+  --color-churchCrimson: #8b0000;
+  --color-churchDark: #1a1a1a;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Nyala', 'Abyssinica SIL', system-ui, sans-serif;
+  background-color: var(--color-neutral-50);
+  color: var(--color-neutral-900);
+  -webkit-font-smoothing: antialiased;
+}
