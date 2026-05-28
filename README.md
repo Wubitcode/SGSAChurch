@@ -1,5 +1,52 @@
-PRODUCTION SCAFFOLD
 
+# SGSA Church Website
+
+Official website for St. Gebreal & St. Arsema Ethiopian Orthodox Tewahedo Church in Toronto, Canada.
+
+This project is designed to serve the church community through worship information, church announcements, spiritual resources, media galleries, donation support, and community engagement.
+
+## 🌍 Mission
+
+SGSA Church serves the Greater Toronto Area (GTA) and welcomes believers from all surrounding communities and beyond the region.
+
+This is a spiritual home for worship, prayer, fasting, and Orthodox tradition rooted in the Ethiopian Orthodox Tewahedo faith. The church is open to anyone seeking spiritual growth, guidance, and connection with God, regardless of location.
+
+Our mission is to preserve the ancient Orthodox faith, support the community, and provide a place of worship, unity, and spiritual life for all believers.
+
+## ✝ Features
+
+- Modern responsive church website
+- Ethiopian Orthodox church design
+- Home, About, Services, Media, Events, and Contact pages
+- Mobile-friendly navigation
+- Worship schedule section
+- Church leadership and ministry pages
+- Media gallery for church events and worship
+- Donation and membership pages
+- Clean and scalable React + Vite architecture
+
+---
+
+## 🛠 Built With
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+
+
+## 🌍 Mission
+
+Our mission is to preserve and share the faith, worship, tradition, and teachings of the Ethiopian Orthodox Tewahedo Church while serving the spiritual needs of the community.
+
+---
+
+## 🙏 Acknowledgment
+
+Developed for the SGSA Church community with dedication to Orthodox faith, tradition, and service.
+
+
+### PRODUCTION SCAFFOLD
 
 
 church-project/
