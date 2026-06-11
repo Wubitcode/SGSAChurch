@@ -269,7 +269,7 @@ npm init -y
 # 3. Install the security and utility packages we used
 npm install express mongoose dotenv zod helmet cors express-rate-limit express-mongo-sanitize hpp cookie-parser winston
 
-# 4. Create your inner folder structure
+# 4. Create  inner folder structure
 mkdir -p src/config src/core src/controllers src/services src/models src/routes/v1 src/middleware src/validators src/utils src/jobs src/audit src/tests
 
 # 1. From the root 'church-project/', navigate into the frontend directory
@@ -285,7 +285,7 @@ npm install axios react-router-dom @tanstack/react-query
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-# 5. Create your structured frontend folders
+# 5. Create structured frontend folders
 mkdir -p src/api src/assets/styles src/components/common src/components/ui src/components/forms src/context src/hooks src/layouts src/pages/public src/pages/auth src/pages/dashboard src/routes src/store src/utils
 
 
